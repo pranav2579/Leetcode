@@ -1,6 +1,4 @@
-package CodingPractice.LeetCode;
-
-public class PalindromeNumber
+class PalindromeNumber
 {
     public boolean isPalindrome(int x) {
         
