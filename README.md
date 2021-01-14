@@ -13,3 +13,4 @@
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](./solutions/242.%20Valid%20Anagram.java)|16 ms|
 |268|[ Missing Number](https://leetcode.com/problems/missing-number/)|[Java](./solutions/268.%20Missing%20Number.java)|0 ms|
 |383|[ Ransom Note](https://leetcode.com/problems/ransom-note/)|[Java](./solutions/383.%20Ransom%20Note.java)|2 ms|
+|412|[ Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Java](./solutions/412.%20Fizz%20Buzz.java)|1 ms|
