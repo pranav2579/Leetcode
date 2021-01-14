@@ -20,5 +20,6 @@
 |237|[ Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Java](./solutions/237.%20Delete%20Node%20in%20a%20Linked%20List.java)|0 ms|
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](./solutions/242.%20Valid%20Anagram.java)|16 ms|
 |268|[ Missing Number](https://leetcode.com/problems/missing-number/)|[Java](./solutions/268.%20Missing%20Number.java)|0 ms|
+|344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[Java](./solutions/344.%20Reverse%20String.java)|0 ms|
 |383|[ Ransom Note](https://leetcode.com/problems/ransom-note/)|[Java](./solutions/383.%20Ransom%20Note.java)|2 ms|
 |412|[ Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Java](./solutions/412.%20Fizz%20Buzz.java)|1 ms|
