@@ -11,6 +11,7 @@
 |104|[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](./solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.java)|0 ms|
 |125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](./solutions/125.%20Valid%20Palindrome.java)|12 ms|
 |136|[ Single Number](https://leetcode.com/problems/single-number/)|[Java](./solutions/136.%20Single%20Number.java)|1 ms|
+|169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[Java](./solutions/169.%20Majority%20Element.java)|32 ms|
 |189|[ Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java](./solutions/189.%20Rotate%20Array.java)|1 ms|
 |198|[ House Robber](https://leetcode.com/problems/house-robber/)|[Java](./solutions/198.%20House%20Robber.java)|0 ms|
 |237|[ Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Java](./solutions/237.%20Delete%20Node%20in%20a%20Linked%20List.java)|0 ms|
