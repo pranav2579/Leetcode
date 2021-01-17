@@ -2,17 +2,15 @@ class Solution {
     public int[] twoSum(int[] nums, int target) {
         int solution[]  = new int[2];
 ​
-        for (int i = 0; i< nums.length - 1 ; i++)
+        Map<Integer,Integer> numsMap = new HashMap<Integer,Integer>();
+        for(int i = 0; i< nums.length; i++)
         {
-            for (int j = i+1; j< nums.length ; j++)
-           
-           if( nums[i] + nums[j] == target)
-            {
-                solution[0] = i;
-                solution[1] = j;
-                return solution;
+            if(numsMap.containsKey(target-nums[i])){
+                return (new int[] {numsMap.get(target-nums[i]),i});
             }
+            numsMap.put(nums[i],i);
         }
-        return solution;
+        throw new IllegalArgumentException("No two sum solution");
+        
     }
 }
