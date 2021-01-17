@@ -3,7 +3,7 @@
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|[Java](./solutions/1.%20Two%20Sum.java)|0 ms|
-|7|[ Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](./solutions/7.%20Reverse%20Integer.java)|2 ms|
+|7|[ Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](./solutions/7.%20Reverse%20Integer.java)|1 ms|
 |9|[ Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Java](./solutions/9.%20Palindrome%20Number.java)|7 ms|
 |20|[ Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](./solutions/20.%20Valid%20Parentheses.java)|1 ms|
 |21|[ Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java](./solutions/21.%20Merge%20Two%20Sorted%20Lists.java)|0 ms|
