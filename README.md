@@ -29,4 +29,5 @@
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[Java](./solutions/344.%20Reverse%20String.java)|0 ms|
 |350|[ Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Java](./solutions/350.%20Intersection%20of%20Two%20Arrays%20II.java)|6 ms|
 |383|[ Ransom Note](https://leetcode.com/problems/ransom-note/)|[Java](./solutions/383.%20Ransom%20Note.java)|2 ms|
+|387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Java](./solutions/387.%20First%20Unique%20Character%20in%20a%20String.java)|37 ms|
 |412|[ Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Java](./solutions/412.%20Fizz%20Buzz.java)|1 ms|
