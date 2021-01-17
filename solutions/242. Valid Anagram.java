@@ -5,22 +5,21 @@ class Solution {
             return false;
             
         HashMap<Character,Integer> map = new HashMap<Character,Integer>();
-        char[] schar = s.toCharArray();
-        for (char c : schar) {
-            map.put(c, (map.containsKey(c) ? map.get(c) + 1 : 1 ));
-        }
-​
-        char[] tchar = t.toCharArray();
-        for (char c : tchar) {
-            if(map.containsKey(c) && map.get(c) != 0)
+        for (int i = 0; i < s.length(); i++)
+            map.put(s.charAt(i), map.getOrDefault(s.charAt(i), 0) + 1);
+    
+        for (int i = 0; i < t.length(); i++)
+        {
+            if(!map.containsKey(t.charAt(i)))
+                return false;
+            
+            map.put(t.charAt(i), map.get(t.charAt(i)) - 1);
+            if(map.get(t.charAt(i)) == 0)
             {
-                map.put(c, (map.get(c)-1));
-                if(map.get(c) == 0)
-                {
-                    map.remove(c);
-                }
+                map.remove(t.charAt(i));
             }
         }
+    
         if(map.size() == 0)
         return true;
         else
