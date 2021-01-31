@@ -14,13 +14,12 @@ class MinStack {
         S.push(x);
         if(mStack.isEmpty() || x <= mStack.peek())
             mStack.push(x);
-        else 
-            mStack.push(mStack.peek());
     }
     
     public void pop() {
         int x = S.pop();
-        mStack.pop();
+        if(x == mStack.peek())
+            mStack.pop();
     }
     
     public int top() {
