@@ -44,3 +44,4 @@
 |383|[ Ransom Note](https://leetcode.com/problems/ransom-note/)|[Java](./solutions/383.%20Ransom%20Note.java)|2 ms|
 |387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Java](./solutions/387.%20First%20Unique%20Character%20in%20a%20String.java)|37 ms|
 |412|[ Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Java](./solutions/412.%20Fizz%20Buzz.java)|2 ms|
+|461|[ Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Java](./solutions/461.%20Hamming%20Distance.java)|0 ms|
